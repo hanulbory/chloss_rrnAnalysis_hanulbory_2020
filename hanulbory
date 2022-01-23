@@ -1,5 +1,0 @@
-git clone git@github.com:SchlossLab/Schloss_rrnAnalysis_mSphere_2020.git
-cd Schloss_rrnAnalysis_hanulbory_2020
-git reset --hard 6c9515447ab2b8564bf612ed477995a535ac4388
-git remote set-url origin git@github.com:<your_github_id>/Schloss_rrnAnalysis_hanulbory_2020.git
-git push -u origin master
